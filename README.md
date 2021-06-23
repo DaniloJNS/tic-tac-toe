@@ -1,2 +1,3 @@
 # tic-tac-toe
- A simple game built from a Tic Tac Toe
+
+A simple game built from Tic Tac Toe
